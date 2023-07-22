@@ -8,7 +8,7 @@ Requirements :
 Steps for Execution:
 1. Clone the repository in appropriate folder
 ```
-git clone https://github.com/PrathameshGadilohar/bostonhousepricing.git
+git clone https://github.com/JayeshGavali/House_Prediction_Internship.git
 ```
 2. Create a new environment : Open New Terminal ->  Use Command Prompt
 ```
